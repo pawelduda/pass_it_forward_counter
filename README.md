@@ -5,6 +5,6 @@ When its' first instance does the counting, it increments the number by 1, then 
 in turn does the same thing, until the desired number has been reached. Then it should be returned by the program.
 
 Things that will be considered when evaluating the code:
-a) readability
-b) simplicity
-c) test coverage
+- readability
+- simplicity
+- test coverage
